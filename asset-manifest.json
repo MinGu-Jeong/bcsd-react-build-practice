@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.31d6cfe0.css",
-    "main.js": "/static/js/main.ec19c2ce.js",
-    "index.html": "/index.html",
-    "main.ec19c2ce.js.map": "/static/js/main.ec19c2ce.js.map"
+    "main.css": "/bcsd-react-build-practice/static/css/main.31d6cfe0.css",
+    "main.js": "/bcsd-react-build-practice/static/js/main.fd2b894e.js",
+    "index.html": "/bcsd-react-build-practice/index.html",
+    "main.fd2b894e.js.map": "/bcsd-react-build-practice/static/js/main.fd2b894e.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.ec19c2ce.js"
+    "static/js/main.fd2b894e.js"
   ]
 }
